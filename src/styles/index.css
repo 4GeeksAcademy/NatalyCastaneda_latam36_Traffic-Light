@@ -23,7 +23,7 @@ body {
     align-items: center;
 }
 
-.horizontalRectangles1 {
+.horizontalRectangle1 {
     background: rgba(46, 42, 51, 255);
     width: 80px;
     height: 15px;
@@ -44,7 +44,7 @@ body {
 
 }
 
-.horizontalRectangles2 {
+.horizontalRectangle2 {
     background: rgba(46, 42, 51, 255);
     width: 80px;
     height: 10px;
